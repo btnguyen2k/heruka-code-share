@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hồng Lão mobiphone</string>
+
+    <string name="hello">Hello World, Main Activity!</string>
+    <string name="call_phone">Call Phone</string>   
+    <string name="send_email">Send Email</string>
+    <string name="input_number">Input Phone Number</string>
+    <string name="input_messages">Input Messages</string>
+    <string name="input_email">Input Email</string>
+    <string name="back_home">Back Home</string>
+    
+</resources>
